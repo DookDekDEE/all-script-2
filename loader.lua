@@ -14,7 +14,8 @@ elseif idgame == 2753915549 or idgame == 4442272183 or idgame == 7449423635 then
 elseif idgame == 134823941085089 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/refs/heads/main/fwrs.lua"))()
 elseif idgame == 72829404259339 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/arx.lua"))()
+loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/812b2ef07bd20fdd"))()
+  --loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/arx.lua"))()
 elseif idgame == 111989938562194 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/brokenbrain.lua"))()
 elseif idgame == 17850641257 or idgame == 17850769550 then
