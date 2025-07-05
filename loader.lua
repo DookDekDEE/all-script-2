@@ -21,6 +21,5 @@ elseif idgame == 111989938562194 then
 elseif idgame == 17850641257 or idgame == 17850769550 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/saga.lua"))()
 elseif idgame == 136755111277466 then
-  loadstring(game:HttpGet("https://loader.pandadevelopment.net/virtual/file/1822f9ba81b233a3"))()
-  --loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/shadow2.lua"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/shadow2.lua"))()
 end
