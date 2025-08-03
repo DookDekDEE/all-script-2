@@ -52,4 +52,8 @@ local animeRanger.list_raid = {
     "SteelBlitzRush",
     "TheGraveyard"
 }
-return animeRanger
+return {
+    list_story = list_story,
+    list_ranger = list_ranger,
+    list_raid = list_raid
+}
