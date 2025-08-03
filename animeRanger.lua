@@ -1,6 +1,6 @@
 local animeRanger = {}
 
-local animeRanger.list_story = {
+animeRanger.list_story = {
     "OnePiece",
     "Namek",
     "DemonSlayer",
@@ -13,7 +13,7 @@ local animeRanger.list_story = {
     "SoulSociety",
     "SAO",
 },
-local animeRanger.list_ranger = {
+animeRanger.list_ranger = {
         "OnePiece_RangerStage1",
     "OnePiece_RangerStage2",
     "OnePiece_RangerStage3",
@@ -48,12 +48,8 @@ local animeRanger.list_ranger = {
     "SAO_RangerStage3",
 
 },
-local animeRanger.list_raid = {
+animeRanger.list_raid = {
     "SteelBlitzRush",
     "TheGraveyard"
 }
-return {
-    list_story = list_story,
-    list_ranger = list_ranger,
-    list_raid = list_raid
-}
+return animeRanger
