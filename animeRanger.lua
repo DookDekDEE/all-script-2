@@ -1,17 +1,17 @@
 local animeRanger = {}
 
 local animeRanger.list_story = {
-    "BizzareRace",
-    "ChainsawMan",
-    "DemonSlayer",
-    "JojoPart1",
+    "OnePiece",
     "Namek",
+    "DemonSlayer",
     "Naruto",
     "OPM",
-    "OnePiece",
-    "SAO",
-    "SoulSociety",
     "TokyoGhoul",
+    "BizarreRace",
+    "JojoPart1",
+    "ChainsawMan",
+    "SoulSociety",
+    "SAO",
 },
 local animeRanger.list_ranger = {
         "OnePiece_RangerStage1",
