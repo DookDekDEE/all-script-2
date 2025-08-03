@@ -1,0 +1,36 @@
+local animeRanger = {}
+
+animeRanger.list_story = {
+    "OnePiece",
+    "Namek",
+    "DemonSlayer",
+    "Naruto",
+    "OPM",
+    "TokyoGhoul",
+    "BizarreRace",
+    "JojoPart1",
+    "ChainsawMan",
+    "SoulSociety",
+    "SAO",
+}
+
+animeRanger.list_ranger = {
+    "OnePiece_RangerStage1", "OnePiece_RangerStage2", "OnePiece_RangerStage3",
+    "Namek_RangerStage1", "Namek_RangerStage2", "Namek_RangerStage3",
+    "DemonSlayer_RangerStage1", "DemonSlayer_RangerStage2", "DemonSlayer_RangerStage3",
+    "Naruto_RangerStage1", "Naruto_RangerStage2", "Naruto_RangerStage3",
+    "OPM_RangerStage1", "OPM_RangerStage2", "OPM_RangerStage3",
+    "TokyoGhoul_RangerStage1", "TokyoGhoul_RangerStage2", "TokyoGhoul_RangerStage3",
+    "TokyoGhoul_RangerStage4", "TokyoGhoul_RangerStage5",
+    "JojoPart1_RangerStage1", "JojoPart1_RangerStage2", "JojoPart1_RangerStage3",
+    "SoulSociety_RangerStage1", "SoulSociety_RangerStage2", "SoulSociety_RangerStage3",
+    "ChainsawMan_RangerStage1", "ChainsawMan_RangerStage2", "ChainsawMan_RangerStage3",
+    "SAO_RangerStage1", "SAO_RangerStage2", "SAO_RangerStage3",
+}
+
+animeRanger.list_raid = {
+    "SteelBlitzRush",
+    "TheGraveyard"
+}
+
+return animeRanger
