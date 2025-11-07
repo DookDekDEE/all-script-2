@@ -25,4 +25,6 @@ elseif idgame == 104067066727140 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/vs.lua"))()
 elseif idgame == 118554563202898 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/ah.lua"))()
+elseif idgame == 123638582555543 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/All-Script/main/af.lua"))()
 end
